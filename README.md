@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/luis301311/count.svg?"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/luis301311/luis301311/output/snake.svg" alt="Snake animation" />
 
 ###
